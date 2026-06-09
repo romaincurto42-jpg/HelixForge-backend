@@ -1,0 +1,2183 @@
+{
+  "_metadata": {
+    "schema_version": "3.0.0-PERFECT",
+    "last_updated": "2026-04-01T19:48:00Z",
+    "project": "CAD-AI Universal Generator - Sémantique Parfaite",
+    "author": "System Architect",
+    "description": "Système sémantique complet pour génération CAD paramétrique universelle par IA avec compréhension contextuelle avancée",
+    "compliance": [
+      "ISO 10303 (STEP)",
+      "ISO 16792 (PMI)",
+      "ISO 128 (Technical Drawings)"
+    ]
+  },
+  "core_philosophy": {
+    "principle": "Toute description textuelle doit être transformable en modèle CAD manufacturable valide",
+    "approach": "Sémantique hiérarchique avec héritage, contraintes et inférence contextuelle",
+    "completeness_levels": {
+      "L1_Explicit": "Tous paramètres fournis par l'utilisateur",
+      "L2_Inferred": "Paramètres manquants déduits par IA (standards, proportions, ergonomie)",
+      "L3_Creative": "IA génère variations créatives dans les contraintes données",
+      "L4_Autonomous": "IA propose conception complète basée sur intention vague"
+    }
+  },
+  "universal_grammar": {
+    "sentence_structure": {
+      "pattern": "[INTENTION] + [OBJET] + [SPÉCIFICATIONS] + [CONTRAINTES] + [STYLE]",
+      "components": {
+        "intention": {
+          "type": "verb",
+          "values": [
+            "crée",
+            "conçoit",
+            "modélise",
+            "génère",
+            "fabrique",
+            "dessine",
+            "imagine"
+          ],
+          "mood": [
+            "indicatif",
+            "impératif",
+            "conditionnel"
+          ],
+          "priority": "détermine le niveau d'autonomie de l'IA"
+        },
+        "objet": {
+          "type": "nom",
+          "structure": "[CATÉGORIE] + [TYPE] + [VARIANTE]",
+          "example": "meuble (catégorie) + table (type) + à manger (variante)"
+        },
+        "spécifications": {
+          "type": "adjectifs_et_compléments",
+          "order": "dimension → matériau → couleur → texture → qualité",
+          "example": "grande (dim) en chêne (mat) clair (couleur) polie (texture)"
+        },
+        "contraintes": {
+          "type": "clauses",
+          "forms": [
+            "pour [USAGE]",
+            "qui supporte [CHARGE]",
+            "qui rentre dans [ESPACE]",
+            "qui coûte moins de [PRIX]"
+          ]
+        },
+        "style": {
+          "type": "références_culturelles",
+          "forms": [
+            "style [ÉPOQUE]",
+            "comme [DESIGNER]",
+            "dans l'esprit de [MOUVEMENT]"
+          ]
+        }
+      }
+    },
+    "semantic_tree": {
+      "root": "INTENTION",
+      "branches": {
+        "physical_object": {
+          "leaves": [
+            "geometry",
+            "material",
+            "dimensions",
+            "tolerances"
+          ],
+          "validation": "must_be_manufacturable"
+        },
+        "assembly": {
+          "leaves": [
+            "components",
+            "relations",
+            "kinematics",
+            "constraints"
+          ],
+          "validation": "must_be_assemblable"
+        },
+        "system": {
+          "leaves": [
+            "subsystems",
+            "interfaces",
+            "functions",
+            "behaviors"
+          ],
+          "validation": "must_be_functional"
+        }
+      }
+    }
+  },
+  "ontology_comprehensive": {
+    "object_hierarchy": {
+      "level_0_domain": {
+        "furniture": {
+          "id": "FURN",
+          "description": "Objets d'ameublement fonctionnels",
+          "standards": [
+            "ISO 4211",
+            "BIFMA",
+            "EN 1335"
+          ],
+          "mandatory_properties": [
+            "dimensions",
+            "stability",
+            "surface_finish"
+          ],
+          "subtypes": {
+            "seating": {
+              "types": [
+                "chair",
+                "sofa",
+                "bench",
+                "stool"
+              ],
+              "ergonomic_reference": "ISO 7250",
+              "key_params": [
+                "seat_height",
+                "seat_depth",
+                "back_angle"
+              ]
+            },
+            "tables": {
+              "types": [
+                "dining",
+                "coffee",
+                "desk",
+                "side",
+                "conference"
+              ],
+              "functional_params": [
+                "clearance_height",
+                "surface_area",
+                "load_capacity"
+              ],
+              "semantic_rules": {
+                "dining": {
+                  "height": 750,
+                  "clearance": 600,
+                  "shape_preference": "rectangular"
+                },
+                "coffee": {
+                  "height": 450,
+                  "clearance": 350,
+                  "shape_preference": "oval_or_round"
+                },
+                "desk": {
+                  "height": 730,
+                  "clearance": 600,
+                  "shape_preference": "rectangular",
+                  "cable_management": true
+                }
+              }
+            },
+            "storage": {
+              "types": [
+                "cabinet",
+                "shelf",
+                "wardrobe",
+                "drawer_unit"
+              ],
+              "accessibility_params": [
+                "shelf_spacing",
+                "drawer_extension",
+                "handle_height"
+              ]
+            },
+            "sleeping": {
+              "types": [
+                "bed",
+                "bunk_bed",
+                "sofa_bed"
+              ],
+              "standards": [
+                "EN 1725",
+                "ISO 9092"
+              ]
+            }
+          }
+        },
+        "mechanical_components": {
+          "id": "MECH",
+          "description": "Composants mécaniques standardisés",
+          "standards": [
+            "ISO",
+            "DIN",
+            "ANSI",
+            "JIS"
+          ],
+          "mandatory_properties": [
+            "material_grade",
+            "tolerances",
+            "surface_roughness"
+          ],
+          "subtypes": {
+            "fasteners": {
+              "types": [
+                "screw",
+                "bolt",
+                "nut",
+                "washer",
+                "rivet",
+                "pin"
+              ],
+              "parametric_rules": "ISO metric or imperial thread standards",
+              "semantic_extraction": "diameter + pitch + length + grade + coating"
+            },
+            "transmission": {
+              "types": [
+                "gear",
+                "pulley",
+                "sprocket",
+                "shaft",
+                "coupling"
+              ],
+              "key_params": [
+                "module",
+                "teeth_count",
+                "pressure_angle",
+                "material_strength"
+              ]
+            },
+            "structural": {
+              "types": [
+                "beam",
+                "column",
+                "bracket",
+                "frame",
+                "truss"
+              ],
+              "calculation_requirements": [
+                "load_analysis",
+                "deflection_limits",
+                "buckling_check"
+              ]
+            },
+            "bearings": {
+              "types": [
+                "ball",
+                "roller",
+                "needle",
+                "thrust",
+                "plain"
+              ],
+              "selection_params": [
+                "load_type",
+                "speed",
+                "life_requirement",
+                "lubrication"
+              ]
+            }
+          }
+        },
+        "architectural_elements": {
+          "id": "ARCH",
+          "description": "Éléments de construction et d'architecture",
+          "standards": [
+            "Eurocodes",
+            "local_building_codes"
+          ],
+          "mandatory_properties": [
+            "structural_rating",
+            "fire_rating",
+            "thermal_properties"
+          ],
+          "subtypes": {
+            "openings": {
+              "types": [
+                "door",
+                "window",
+                "skylight",
+                "gate"
+              ],
+              "regulatory_params": [
+                "egress_width",
+                "fire_resistance",
+                "acoustic_rating"
+              ]
+            },
+            "vertical_circulation": {
+              "types": [
+                "stair",
+                "ramp",
+                "elevator",
+                "escalator"
+              ],
+              "safety_params": [
+                "rise_run_ratio",
+                "handrail_height",
+                "tread_depth"
+              ]
+            },
+            "envelope": {
+              "types": [
+                "wall_panel",
+                "roof_element",
+                "facade_system"
+              ],
+              "performance_params": [
+                "u_value",
+                "air_tightness",
+                "wind_load"
+              ]
+            }
+          }
+        },
+        "consumer_products": {
+          "id": "PROD",
+          "description": "Produits de consommation manufacturés",
+          "mandatory_properties": [
+            "safety_compliance",
+            "manufacturing_method",
+            "cost_target"
+          ],
+          "subtypes": {
+            "enclosures": {
+              "types": [
+                "electronics_housing",
+                "instrument_case",
+                "protective_cover"
+              ],
+              "design_for_manufacturing": [
+                "draft_angles",
+                "wall_thickness",
+                "gate_location"
+              ]
+            },
+            "containers": {
+              "types": [
+                "bottle",
+                "jar",
+                "box",
+                "canister"
+              ],
+              "key_params": [
+                "volume",
+                "opening_diameter",
+                "stackability",
+                "sealing"
+              ]
+            },
+            "tools": {
+              "types": [
+                "hand_tool",
+                "power_tool_accessory",
+                "garden_tool"
+              ],
+              "ergonomic_requirements": [
+                "grip_diameter",
+                "balance_point",
+                "effort_leverage"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "relation_ontology": {
+      "spatial_relations": {
+        "position": [
+          "sur",
+          "sous",
+          "à_côté_de",
+          "entre",
+          "devant",
+          "derrière"
+        ],
+        "orientation": [
+          "parallèle_à",
+          "perpendiculaire_à",
+          "incliné_de",
+          "orienté_vers"
+        ],
+        "distance": [
+          "à_distance_de",
+          "espacé_de",
+          "jointif_à",
+          "séparé_par"
+        ]
+      },
+      "functional_relations": {
+        "assembly": [
+          "fixé_par",
+          "assemblé_à",
+          "connecté_à",
+          "intégré_dans"
+        ],
+        "motion": [
+          "glisse_sur",
+          "pivote_autour_de",
+          "s'insère_dans",
+          "s'enclenche_dans"
+        ],
+        "support": [
+          "supporte",
+          "repose_sur",
+          "suspendu_à",
+          "fixé_au"
+        ]
+      },
+      "material_relations": {
+        "composition": [
+          "fait_de",
+          "constitué_de",
+          "revêtu_de",
+          "plaqué_de"
+        ],
+        "finish": [
+          "fini_en",
+          "traité_par",
+          "couché_de",
+          "anodisé_en"
+        ]
+      }
+    }
+  },
+  "semantic_parser_advanced": {
+    "intent_classification": {
+      "model": "fine_tuned_bert_multilingual",
+      "classes": {
+        "CREATE_FROM_SCRATCH": {
+          "confidence_threshold": 0.85,
+          "triggers": [
+            "crée",
+            "conçois",
+            "imagine",
+            "génère",
+            "modélise",
+            "dessine-moi"
+          ],
+          "required_context": [
+            "object_type"
+          ],
+          "optional_context": [
+            "all_specifications"
+          ],
+          "action": "initialize_new_cad_tree"
+        },
+        "MODIFY_EXISTING": {
+          "confidence_threshold": 0.8,
+          "triggers": [
+            "modifie",
+            "change",
+            "transforme",
+            "adapte",
+            "ajuste",
+            "corrige"
+          ],
+          "required_context": [
+            "reference_object"
+          ],
+          "modification_types": {
+            "PARAMETRIC_CHANGE": [
+              "agrandis",
+              "réduis",
+              "allonge",
+              "raccourcis"
+            ],
+            "FEATURE_ADD": [
+              "ajoute",
+              "crée",
+              "insère"
+            ],
+            "FEATURE_REMOVE": [
+              "enlève",
+              "supprime",
+              "retire"
+            ],
+            "FEATURE_MODIFY": [
+              "arrondis",
+              "chanfreine",
+              "perce",
+              "découpe"
+            ],
+            "STYLE_CHANGE": [
+              "modernise",
+              "simplifie",
+              "ornemente"
+            ]
+          },
+          "action": "traverse_and_modify_feature_tree"
+        },
+        "ANALYZE_SIMULATE": {
+          "confidence_threshold": 0.75,
+          "triggers": [
+            "analyse",
+            "calcule",
+            "simule",
+            "vérifie",
+            "teste",
+            "optimise"
+          ],
+          "analysis_domains": [
+            "structural",
+            "thermal",
+            "fluid",
+            "cost",
+            "manufacturability",
+            "ergonomics"
+          ],
+          "action": "trigger_simulation_engine"
+        },
+        "QUERY_INFORMATION": {
+          "confidence_threshold": 0.7,
+          "triggers": [
+            "quelle est",
+            "combien",
+            "montre-moi",
+            "explique",
+            "décris"
+          ],
+          "action": "query_cad_database"
+        },
+        "ITERATIVE_REFINEMENT": {
+          "confidence_threshold": 0.75,
+          "triggers": [
+            "presque",
+            "pas tout à fait",
+            "plutôt",
+            "plus",
+            "moins",
+            "autrement"
+          ],
+          "context": "previous_generation",
+          "action": "adjust_last_parameters"
+        }
+      }
+    },
+    "entity_extraction_engine": {
+      "dimension_extraction": {
+        "algorithms": {
+          "explicit_parsing": {
+            "pattern_metric": "(\\d+(?:\\.\\d+)?)\\s*(mm|cm|m|millimètres?|centimètres?|mètres?)",
+            "pattern_imperial": "(\\d+(?:\\.\\d+)?)\\s*(in|\\\"|pouces?|ft|'|pieds?)\\s*(?:(\\d+(?:\\.\\d+)?)\\s*(?:in|\\\"|pouces?))?",
+            "pattern_composite": "(\\d+)\\s*x\\s*(\\d+)\\s*x\\s*(\\d+)\\s*(mm|cm|m)?",
+            "resolution": "convert_all_to_mm",
+            "tolerance": "±0.5% or explicit"
+          },
+          "relative_parsing": {
+            "multipliers": {
+              "double": 2.0,
+              "moitié": 0.5,
+              "triple": 3.0,
+              "quadruple": 4.0,
+              "deux fois": 2.0,
+              "trois fois": 3.0,
+              "quatre fois": 4.0,
+              "x2": 2.0,
+              "x3": 3.0,
+              "x4": 4.0
+            },
+            "comparatives": {
+              "plus grand": "scale_up",
+              "plus petit": "scale_down",
+              "plus haut": "increase_z",
+              "plus large": "increase_xy",
+              "plus profond": "increase_y",
+              "plus long": "increase_x"
+            },
+            "reference_resolution": "last_mentioned_dimension or standard_default"
+          },
+          "proportional_parsing": {
+            "ratio_patterns": [
+              "ratio",
+              "proportion",
+              "échelle",
+              "rapport",
+              ":"
+            ],
+            "golden_ratio": {
+              "trigger": [
+                "dorée",
+                "gold",
+                "phi"
+              ],
+              "value": 1.618
+            },
+            "modulor": {
+              "trigger": [
+                "modulor",
+                "le corbusier"
+              ],
+              "reference": "human_scale"
+            },
+            "standard_ratios": [
+              "16:9",
+              "4:3",
+              "21:9",
+              "1:1",
+              "2:1",
+              "3:2"
+            ]
+          },
+          "contextual_inference": {
+            "human_references": {
+              "hauteur_assise": 450,
+              "hauteur_table": 750,
+              "portée_brass": 700,
+              "envergure": 1700,
+              "taille_moyenne_homme": 1750,
+              "taille_moyenne_femme": 1620
+            },
+            "object_relations": {
+              "hauteur_genoux": "seat_height - 50",
+              "espace_genoux": "clearance_under_table",
+              "hauteur_coude": "table_height + 250"
+            },
+            "furniture_standards": {
+              "table_manger": {
+                "h": 750,
+                "l": 1400,
+                "p": 800
+              },
+              "chaise_standard": {
+                "h_assise": 450,
+                "h_dossier": 400,
+                "l_assise": 450
+              },
+              "bureau_travail": {
+                "h": 730,
+                "l_min": 1200,
+                "p_min": 600
+              }
+            }
+          }
+        },
+        "validation_rules": [
+          "dimensions_must_be_positive",
+          "dimensions_must_be_realistic_for_object",
+          "aspect_ratios_must_be_manufacturable",
+          "minimum_feature_size_respected"
+        ]
+      },
+      "material_extraction": {
+        "hierarchy_depth_3": {
+          "métaux": {
+            "ferreux": {
+              "acier": {
+                "grades": [
+                  "S235",
+                  "S355",
+                  "S460",
+                  "E24",
+                  "E36"
+                ],
+                "finish": [
+                  "brut",
+                  "galvanisé",
+                  "peint",
+                  "bichromaté"
+                ]
+              },
+              "acier_inoxydable": {
+                "grades": [
+                  "304",
+                  "316",
+                  "316L",
+                  "430"
+                ],
+                "finish": [
+                  "brossé",
+                  "poli",
+                  "satiné",
+                  "décapé"
+                ]
+              },
+              "fonte": {
+                "types": [
+                  "grise",
+                  "nodulaire",
+                  "malléable"
+                ],
+                "finish": [
+                  "brute",
+                  "peinte",
+                  "émaillée"
+                ]
+              },
+              "acier_allié": {
+                "types": [
+                  "carré",
+                  "rond",
+                  "plat",
+                  "cornière",
+                  "T",
+                  "U"
+                ],
+                "finish": [
+                  "brut",
+                  "traité"
+                ]
+              }
+            },
+            "non_ferreux": {
+              "aluminium": {
+                "alloys": [
+                  "1050",
+                  "6061",
+                  "6063",
+                  "7075"
+                ],
+                "finish": [
+                  "anodisé",
+                  "poudré",
+                  "brut",
+                  "brossé",
+                  "poli"
+                ]
+              },
+              "cuivre": {
+                "types": [
+                  "C11000",
+                  "C12200"
+                ],
+                "finish": [
+                  "brut",
+                  "oxydé",
+                  "verni",
+                  "étamé"
+                ]
+              },
+              "laiton": {
+                "types": [
+                  "C36000",
+                  "C46400"
+                ],
+                "finish": [
+                  "poli",
+                  "brossé",
+                  "nickelé",
+                  "chromé"
+                ]
+              },
+              "bronze": {
+                "types": [
+                  "C51000",
+                  "C95400"
+                ],
+                "finish": [
+                  "brut",
+                  "poli"
+                ]
+              },
+              "titane": {
+                "grades": [
+                  "Grade 1",
+                  "Grade 2",
+                  "Grade 5"
+                ],
+                "finish": [
+                  "brut",
+                  "anodisé",
+                  "poli"
+                ]
+              },
+              "zinc": {
+                "finish": [
+                  "brut",
+                  "chromé",
+                  "nickelé"
+                ]
+              }
+            }
+          },
+          "polymères": {
+            "thermoplastiques": {
+              "PLA": {
+                "properties": [
+                  "biodégradable",
+                  "facile_à_imprimer",
+                  "faible_résistance_thermique"
+                ],
+                "uses": [
+                  "prototypage",
+                  "emballage"
+                ]
+              },
+              "ABS": {
+                "properties": [
+                  "résistant",
+                  "impact",
+                  "facile_à_usiner"
+                ],
+                "uses": [
+                  "automobile",
+                  "électronique"
+                ]
+              },
+              "PETG": {
+                "properties": [
+                  "transparent",
+                  "résistant",
+                  "alimentaire"
+                ],
+                "uses": [
+                  "contenants",
+                  "mécanique"
+                ]
+              },
+              "Nylon": {
+                "types": [
+                  "PA6",
+                  "PA66",
+                  "PA12"
+                ],
+                "properties": [
+                  "résistant",
+                  "usure",
+                  "autolubrifiant"
+                ]
+              },
+              "Polycarbonate": {
+                "properties": [
+                  "transparent",
+                  "résistant_impact",
+                  " UV"
+                ],
+                "uses": [
+                  "sécurité",
+                  "optique"
+                ]
+              },
+              "Polyéthylène": {
+                "types": [
+                  "HDPE",
+                  "LDPE",
+                  "UHMWPE"
+                ],
+                "properties": [
+                  "chimiquement_inerte",
+                  "souple"
+                ]
+              },
+              "Polypropylène": {
+                "properties": [
+                  "léger",
+                  "résistant_chimique",
+                  "fatigue"
+                ],
+                "uses": [
+                  "emballage",
+                  "automobile"
+                ]
+              }
+            },
+            "thermodurcissables": {
+              "Résine_époxy": {
+                "properties": [
+                  "résistant",
+                  "adhésif",
+                  "isolant"
+                ],
+                "uses": [
+                  "composites",
+                  "électronique"
+                ]
+              },
+              "Bakélite": {
+                "properties": [
+                  "isolant",
+                  "résistant_chaleur"
+                ],
+                "uses": [
+                  "électrique",
+                  "vintage"
+                ]
+              },
+              "Polyuréthane": {
+                "types": [
+                  "souple",
+                  "rigide",
+                  "mousse"
+                ],
+                "properties": [
+                  "élastique",
+                  "isolant"
+                ]
+              }
+            },
+            "élastomères": {
+              "Caoutchouc_naturel": {
+                "properties": [
+                  "élastique",
+                  "adhérent"
+                ]
+              },
+              "Silicone": {
+                "properties": [
+                  "thermostable",
+                  "souple",
+                  "biocompatible"
+                ],
+                "uses": [
+                  "médical",
+                  "cuisine"
+                ]
+              },
+              "Néoprène": {
+                "properties": [
+                  "résistant_huile",
+                  "élastique"
+                ],
+                "uses": [
+                  "joints",
+                  "sport"
+                ]
+              }
+            }
+          },
+          "bois_et_dérivés": {
+            "massifs": {
+              "chêne": {
+                "characteristics": [
+                  "dur",
+                  "stable",
+                  "beau_fil"
+                ],
+                "uses": [
+                  "meuble",
+                  "parquet"
+                ],
+                "finish": [
+                  "huilé",
+                  "verni",
+                  "ciré",
+                  "laqué"
+                ]
+              },
+              "hêtre": {
+                "characteristics": [
+                  "dur",
+                  "homogène",
+                  "pale"
+                ],
+                "uses": [
+                  "meuble",
+                  "tournage"
+                ]
+              },
+              "érable": {
+                "characteristics": [
+                  "dur",
+                  "fin",
+                  "ondé_possible"
+                ],
+                "uses": [
+                  "meuble",
+                  "musique"
+                ]
+              },
+              "noyer": {
+                "characteristics": [
+                  "dur",
+                  "foncé",
+                  "noble"
+                ],
+                "uses": [
+                  "meuble",
+                  "décoration"
+                ]
+              },
+              "pin": {
+                "characteristics": [
+                  "tendre",
+                  "résineux",
+                  "économique"
+                ],
+                "uses": [
+                  "construction",
+                  "meuble_rustique"
+                ]
+              },
+              "bambou": {
+                "characteristics": [
+                  "très_dur",
+                  "croissance_rapide",
+                  "écologique"
+                ],
+                "finish": [
+                  "naturel",
+                  "carbonisé"
+                ]
+              }
+            },
+            "dérivés": {
+              "Contreplaqué": {
+                "types": [
+                  "CTBX",
+                  "CTBH",
+                  "CTCX"
+                ],
+                "properties": [
+                  "stable",
+                  "résistant"
+                ]
+              },
+              "MDF": {
+                "densities": [
+                  "standard",
+                  "HDF"
+                ],
+                "properties": [
+                  "homogène",
+                  "facile_à_usiner"
+                ],
+                "finish": [
+                  "peint",
+                  "placage",
+                  "mélaminé"
+                ]
+              },
+              "OSB": {
+                "types": [
+                  "OSB1",
+                  "OSB2",
+                  "OSB3",
+                  "OSB4"
+                ],
+                "uses": [
+                  "construction",
+                  "emballage"
+                ]
+              },
+              "Aggloméré": {
+                "densities": [
+                  "standard",
+                  "HPL"
+                ],
+                "finish": [
+                  "mélaminé",
+                  "stratifié"
+                ]
+              }
+            }
+          },
+          "céramiques_et_verres": {
+            "céramiques_techniques": [
+              "alumine",
+              "zircone",
+              "nitrure_de_silicium",
+              "carbure_de_silicium"
+            ],
+            "porcelaine": [
+              "dure",
+              "tendre",
+              "os"
+            ],
+            "verres": {
+              "sodo-calcique": {
+                "uses": [
+                  "fenêtre",
+                  "bouteille"
+                ]
+              },
+              "borosilicate": {
+                "properties": [
+                  "résistant_chaleur"
+                ],
+                "uses": [
+                  "laboratoire",
+                  "cuisine"
+                ]
+              },
+              "trempé": {
+                "properties": [
+                  "résistant_impact"
+                ],
+                "uses": [
+                  "smartphone",
+                  "automobile"
+                ]
+              },
+              "organique": {
+                "types": [
+                  "Plexiglas",
+                  "Polycarbonate"
+                ],
+                "properties": [
+                  "léger",
+                  "incassable"
+                ]
+              }
+            },
+            "béton": {
+              "types": [
+                "standard",
+                "fibré",
+                "ultra-performant",
+                "imprimé"
+              ],
+              "finish": [
+                "brut",
+                "poli",
+                "bouchardé",
+                "imprimé"
+              ]
+            }
+          },
+          "composites": {
+            "fibre_de_carbone": {
+              "weaves": [
+                "uni",
+                "sergé",
+                "satin"
+              ],
+              "finish": [
+                "brut",
+                "verni",
+                "laqué"
+              ]
+            },
+            "fibre_de_verre": {
+              "types": [
+                "mat",
+                "tissé",
+                "rovings"
+              ]
+            },
+            "sandwich": {
+              "cores": [
+                "nid_d'abeille",
+                "mousse",
+                "bois"
+              ]
+            }
+          }
+        },
+        "property_inference_rules": {
+          "mechanical": {
+            "if": "material in [acier, aluminium_alliage, titane]",
+            "then": "high_strength = True, suitable_for_structural = True"
+          },
+          "aesthetic": {
+            "if": "finish in [poli, laqué, verni]",
+            "then": "surface_quality = premium, maintenance_required = True"
+          },
+          "manufacturing": {
+            "if": "material in [PLA, ABS, Nylon]",
+            "then": "3d_printable = True, preferred_method = FDM"
+          }
+        }
+      },
+      "color_and_appearance": {
+        "color_systems": {
+          "natural_language": [
+            "rouge",
+            "bleu",
+            "vert",
+            "jaune",
+            "noir",
+            "blanc",
+            "gris",
+            "marron",
+            "beige",
+            "orange",
+            "violet",
+            "rose"
+          ],
+          "pantone": {
+            "pattern": "PANTONE\\s*\\d{2,4}\\s*[A-Z]?",
+            "resolution": "RGB/CMYK_conversion"
+          },
+          "ral": {
+            "pattern": "RAL\\s*\\d{4}",
+            "standard": "RAL_CLASSIC"
+          },
+          "ncs": {
+            "pattern": "NCS\\s*S\\s*\\d{4}-[A-Z]\\d{2}",
+            "usage": "scandinavian_design"
+          },
+          "hex": {
+            "pattern": "#[0-9A-Fa-f]{6}",
+            "direct_usage": true
+          }
+        },
+        "texture_mapping": {
+          "surface_states": {
+            "brut": {
+              "roughness": 0.9,
+              "glossiness": 0.1,
+              "bump_scale": 0.5
+            },
+            "poli": {
+              "roughness": 0.05,
+              "glossiness": 1.0,
+              "bump_scale": 0.0,
+              "mirror": 0.8
+            },
+            "brossé": {
+              "roughness": 0.3,
+              "glossiness": 0.4,
+              "anisotropy": 0.8,
+              "bump_scale": 0.1
+            },
+            "sablé": {
+              "roughness": 0.7,
+              "glossiness": 0.2,
+              "bump_scale": 0.3
+            },
+            "martelé": {
+              "roughness": 0.8,
+              "glossiness": 0.15,
+              "bump_scale": 0.6,
+              "pattern": "procedural"
+            },
+            "texturé": {
+              "roughness": 0.6,
+              "glossiness": 0.3,
+              "bump_scale": 0.4,
+              "requires_uv_mapping": true
+            }
+          },
+          "patterns": [
+            "bois",
+            "marbre",
+            "carbone",
+            "cuir",
+            "tissu",
+            "métal_brossé",
+            "béton"
+          ]
+        }
+      }
+    },
+    "context_management": {
+      "anaphora_resolution": {
+        "pronouns": [
+          "il",
+          "elle",
+          "ce",
+          "cet",
+          "cette",
+          "ces",
+          "le",
+          "la",
+          "les"
+        ],
+        "resolution_strategy": "last_mentioned_compatible_object",
+        "ellipsis_handling": "inherit_from_previous_context"
+      },
+      "temporal_references": {
+        "sequence_markers": [
+          "d'abord",
+          "ensuite",
+          "puis",
+          "après",
+          "enfin",
+          "maintenant"
+        ],
+        "modification_scope": [
+          "tout",
+          "seulement",
+          "aussi",
+          "en_plus",
+          "au_contraire"
+        ]
+      },
+      "negation_handling": {
+        "markers": [
+          "pas",
+          "non",
+          "ne",
+          "sans",
+          "ni",
+          "aucun"
+        ],
+        "scope": "feature_removal or constraint_inversion"
+      }
+    }
+  },
+  "parametric_templates_detailed": {
+    "table_complete": {
+      "metadata": {
+        "category": "furniture",
+        "type": "table",
+        "version": "3.0",
+        "manufacturing_methods": [
+          "cnc",
+          "traditional_woodworking",
+          "3d_printing_small_scale"
+        ],
+        "estimated_complexity": "medium"
+      },
+      "parameter_hierarchy": {
+        "level_1_global": {
+          "overall_style": {
+            "type": "enum",
+            "values": [
+              "modern",
+              "traditional",
+              "industrial",
+              "scandinavian",
+              "minimalist",
+              "rustic",
+              "art_deco",
+              "custom"
+            ],
+            "default": "modern",
+            "cascading_effects": "determines_default_proportions_and_details"
+          },
+          "primary_function": {
+            "type": "enum",
+            "values": [
+              "dining",
+              "coffee",
+              "desk",
+              "side",
+              "console",
+              "workbench",
+              "outdoor"
+            ],
+            "default": "dining",
+            "constraint_rules": {
+              "dining": {
+                "height_mm": 750,
+                "min_surface_area": 0.5
+              },
+              "coffee": {
+                "height_mm": 450,
+                "max_height_mm": 500
+              },
+              "desk": {
+                "height_mm": 730,
+                "cable_management": true,
+                "min_width_mm": 1200
+              },
+              "workbench": {
+                "height_mm": 900,
+                "load_capacity_kg": 200
+              }
+            }
+          }
+        },
+        "level_2_top": {
+          "shape": {
+            "type": "enum",
+            "values": [
+              "rectangular",
+              "square",
+              "circular",
+              "oval",
+              "racetrack",
+              "freeform",
+              "drop_leaf"
+            ],
+            "default": "rectangular",
+            "semantic_triggers": {
+              "rectangular": [
+                "rectangulaire",
+                "rectangle"
+              ],
+              "square": [
+                "carrée",
+                "carré"
+              ],
+              "circular": [
+                "ronde",
+                "circulaire",
+                "rond"
+              ],
+              "oval": [
+                "ovale",
+                "ovale allongée"
+              ],
+              "racetrack": [
+                "rectangle aux coins arrondis",
+                "stade"
+              ],
+              "drop_leaf": [
+                "à volets",
+                "rabattable"
+              ]
+            },
+            "parametric_rules": {
+              "if_circular": "length = width = diameter",
+              "if_square": "length = width",
+              "if_oval": "length >= 1.3 * width"
+            }
+          },
+          "dimensions": {
+            "length": {
+              "type": "dimension_mm",
+              "min": 400,
+              "max": 5000,
+              "default": 1400,
+              "semantic_extraction": [
+                "longueur",
+                "long",
+                "profondeur",
+                "largeur_principale"
+              ],
+              "relative_terms": {
+                "très longue": 1.5,
+                "longue": 1.2,
+                "courte": 0.8,
+                "très courte": 0.6
+              }
+            },
+            "width": {
+              "type": "dimension_mm",
+              "min": 400,
+              "max": 3000,
+              "default": 800,
+              "semantic_extraction": [
+                "largeur",
+                "profondeur"
+              ],
+              "constraint": "width <= length",
+              "aspect_ratios": {
+                "square": 1.0,
+                "standard": "0.5-0.7",
+                "wide": "0.8-1.0",
+                "narrow": "0.3-0.5"
+              }
+            },
+            "thickness": {
+              "type": "dimension_mm",
+              "min": 10,
+              "max": 200,
+              "default": 40,
+              "semantic_extraction": [
+                "épaisseur",
+                "épais",
+                "fin",
+                "massif"
+              ],
+              "material_dependent": {
+                "bois_massif": {
+                  "min": 20,
+                  "recommended": 40
+                },
+                "verre": {
+                  "min": 10,
+                  "recommended": 12,
+                  "tempered_required_if": "thickness < 8"
+                },
+                "métal": {
+                  "min": 2,
+                  "recommended": 3
+                },
+                "pierre": {
+                  "min": 30,
+                  "recommended": 50
+                }
+              },
+              "structural_rule": "thickness >= span/1000 * material_factor"
+            }
+          },
+          "edge_profile": {
+            "type": "enum",
+            "values": [
+              "sharp",
+              "chamfered",
+              "rounded_small",
+              "rounded_large",
+              "bullnose",
+              "ogee",
+              "beveled",
+              "waterfall"
+            ],
+            "default": "chamfered",
+            "semantic_triggers": {
+              "sharp": [
+                "vive",
+                "carrée",
+                "net"
+              ],
+              "chamfered": [
+                "chanfreinée",
+                "biseautée"
+              ],
+              "rounded_small": [
+                "légèrement arrondie",
+                "petit rayon"
+              ],
+              "rounded_large": [
+                "arrondie",
+                "ronde"
+              ],
+              "bullnose": [
+                "demi-rond",
+                "bullnose"
+              ],
+              "ogee": [
+                "moulurée",
+                "ogee",
+                "baroque"
+              ],
+              "waterfall": [
+                "en cascade",
+                "waterfall"
+              ]
+            },
+            "manufacturing_notes": {
+              "sharp": "CNC_required_for_consistency",
+              "ogee": "requires_special_cutter_or_handwork"
+            }
+          },
+          "surface_finish": {
+            "material_surface": {
+              "wood": [
+                "brut_sablé",
+                "huilé",
+                "verni_mat",
+                "verni_satiné",
+                "verni_brillant",
+                "ciré",
+                "laqué"
+              ],
+              "metal": [
+                "brut",
+                "brossé",
+                "poli",
+                "sablé",
+                "poudré",
+                "anodisé"
+              ],
+              "stone": [
+                "poli",
+                "bouchardé",
+                "flammé",
+                "brossé"
+              ],
+              "glass": [
+                "transparent",
+                "dépoli",
+                "teinté",
+                "trempé"
+              ]
+            }
+          }
+        },
+        "level_3_support_structure": {
+          "leg_system": {
+            "type": {
+              "type": "enum",
+              "values": [
+                "four_legs",
+                "pedestal",
+                "trestle",
+                "x_base",
+                "sled_base",
+                "cantilever",
+                "wall_mounted",
+                "central_column"
+              ],
+              "default": "four_legs",
+              "semantic_triggers": {
+                "four_legs": [
+                  "quatre pieds",
+                  "pieds aux coins"
+                ],
+                "pedestal": [
+                  "piétement central",
+                  "pied central",
+                  "colonne"
+                ],
+                "trestle": [
+                  "tréteaux",
+                  "chevalet"
+                ],
+                "x_base": [
+                  "pied en X",
+                  "base croisée"
+                ],
+                "sled_base": [
+                  "pied luge",
+                  "trainau"
+                ],
+                "cantilever": [
+                  "console",
+                  "en porte-à-faux"
+                ]
+              }
+            },
+            "count": {
+              "type": "integer",
+              "min": 1,
+              "max": 8,
+              "default": 4,
+              "semantic_values": {
+                "un": 1,
+                "deux": 2,
+                "trois": 3,
+                "quatre": 4,
+                "cinq": 5,
+                "six": 6
+              },
+              "constraint": "if type=four_legs then count=4, if type=pedestal then count=1"
+            },
+            "cross_section": {
+              "type": "enum",
+              "values": [
+                "circular",
+                "square",
+                "rectangular",
+                "tapered_round",
+                "tapered_square",
+                "turned",
+                "profiled"
+              ],
+              "default": "square",
+              "semantic_triggers": {
+                "circular": [
+                  "rond",
+                  "circulaire",
+                  "cylindrique"
+                ],
+                "square": [
+                  "carré",
+                  "section carrée"
+                ],
+                "rectangular": [
+                  "rectangulaire",
+                  "plat"
+                ],
+                "tapered_round": [
+                  "fuselé",
+                  "conique"
+                ],
+                "turned": [
+                  "tourné",
+                  "tourné sur tour",
+                  "balustre"
+                ]
+              }
+            },
+            "dimensions": {
+              "height": {
+                "type": "calculated",
+                "formula": "target_table_height - top_thickness - (apron_height if apron_exists else 0)",
+                "default": 720,
+                "min": 100,
+                "max": 1200,
+                "semantic_extraction": [
+                  "hauteur",
+                  "haut"
+                ],
+                "relative_to": "seat_height_standard or user_specified"
+              },
+              "width_diameter": {
+                "type": "dimension_mm",
+                "min": 20,
+                "max": 200,
+                "default": 60,
+                "proportion_rules": {
+                  "to_table_top_area": "leg_diameter ~ sqrt(top_area) / 20",
+                  "to_table_height": "leg_diameter >= height / 15 for stability"
+                }
+              },
+              "taper": {
+                "type": "ratio",
+                "min": 0,
+                "max": 0.5,
+                "default": 0.1,
+                "semantic": [
+                  "fuselé",
+                  "aminci",
+                  "évasé"
+                ]
+              }
+            },
+            "attachment_method": {
+              "type": "enum",
+              "values": [
+                "direct_screw",
+                "bracket",
+                "apron_integrated",
+                "pedestal_mount",
+                "dowel",
+                "mortise_tenon"
+              ],
+              "default": "apron_integrated",
+              "material_dependent": {
+                "wood": [
+                  "dowel",
+                  "mortise_tenon",
+                  "screw"
+                ],
+                "metal": [
+                  "weld",
+                  "bolt",
+                  "bracket"
+                ],
+                "mixed": [
+                  "bracket",
+                  "threaded_insert"
+                ]
+              }
+            }
+          },
+          "apron": {
+            "exists": {
+              "type": "boolean",
+              "default": true,
+              "semantic": [
+                "ceinture",
+                "cadre",
+                "structure",
+                "sans ceinture"
+              ],
+              "if_false": "legs_must_be_pedestal_or_trestle_for_stability"
+            },
+            "height": {
+              "type": "dimension_mm",
+              "min": 50,
+              "max": 200,
+              "default": 100,
+              "semantic": [
+                "hauteur ceinture",
+                "profondeur cadre"
+              ]
+            },
+            "thickness": {
+              "type": "dimension_mm",
+              "min": 20,
+              "max": 60,
+              "default": 30
+            },
+            "reveal": {
+              "type": "dimension_mm",
+              "description": "Distance from top edge to apron top",
+              "min": 0,
+              "max": 50,
+              "default": 10
+            }
+          }
+        },
+        "level_4_details": {
+          "hardware": {
+            "levelers": {
+              "type": "boolean",
+              "default": true,
+              "semantic": [
+                "niveleurs",
+                "pieds réglables",
+                "pour sol irrégulier"
+              ]
+            },
+            "connectors": {
+              "type": "enum",
+              "values": [
+                "minifix",
+                "domino",
+                "traditional_mortise",
+                "metal_bracket",
+                "exposed_bolt"
+              ],
+              "hidden_by_default": true
+            }
+          },
+          "extensions": {
+            "type": "enum",
+            "values": [
+              "none",
+              "leaf_insert",
+              "flip_top",
+              "draw_leaf",
+              "extension_slides"
+            ],
+            "default": "none",
+            "semantic": [
+              "extensible",
+              "allonge",
+              "rallonge",
+              "à volets"
+            ]
+          }
+        }
+      },
+      "constraint_satisfaction": {
+        "geometric_constraints": [
+          {
+            "name": "stability_base",
+            "rule": "leg_span_polygon_area >= 0.3 * top_footprint_area",
+            "severity": "critical",
+            "auto_fix": "increase_leg_angle_or_span"
+          },
+          {
+            "name": "height_ergonomics",
+            "rule": "total_height in [700, 800] if function=dining else [400, 500] if function=coffee",
+            "severity": "warning",
+            "auto_fix": "adjust_to_nearest_standard"
+          },
+          {
+            "name": "material_thickness",
+            "rule": "top_thickness >= material_min_thickness_for_span",
+            "severity": "critical",
+            "auto_fix": "increase_thickness_or_add_support"
+          }
+        ],
+        "manufacturing_constraints": [
+          {
+            "name": "tool_access",
+            "rule": "all_features_accessible_by_standard_tools",
+            "severity": "warning"
+          },
+          {
+            "name": "grain_direction",
+            "rule": "if_wood then top_grain_parallel_to_longest_dimension",
+            "severity": "recommendation"
+          }
+        ]
+      },
+      "cad_feature_tree": {
+        "sequence": [
+          {
+            "step": 1,
+            "operation": "create_datum_planes",
+            "name": "references"
+          },
+          {
+            "step": 2,
+            "operation": "sketch_top_profile",
+            "name": "top_profile",
+            "plane": "XY",
+            "constraint": "fully_defined"
+          },
+          {
+            "step": 3,
+            "operation": "extrude",
+            "name": "top_solid",
+            "direction": "Z",
+            "depth": "top_thickness",
+            "merge": false
+          },
+          {
+            "step": 4,
+            "operation": "apply_edge_treatment",
+            "name": "edge_profile",
+            "target": "top_edges",
+            "profile": "edge_profile_enum"
+          },
+          {
+            "step": 5,
+            "operation": "create_apron",
+            "name": "apron_structure",
+            "if": "apron_exists",
+            "method": "extrude_from_offset_plane"
+          },
+          {
+            "step": 6,
+            "operation": "pattern_legs",
+            "name": "legs",
+            "count": "leg_count",
+            "distribution": "symmetric"
+          },
+          {
+            "step": 7,
+            "operation": "apply_fillets",
+            "name": "smooth_edges",
+            "radius": "manufacturable_default"
+          },
+          {
+            "step": 8,
+            "operation": "shell_if_required",
+            "name": "lightweight",
+            "condition": "material=metal AND weight_reduction_requested"
+          },
+          {
+            "step": 9,
+            "operation": "validate_geometry",
+            "name": "quality_check"
+          }
+        ]
+      }
+    },
+    "semantic_transformation_examples": {
+      "example_1_simple": {
+        "input": "Une table ronde en chêne de 120cm de diamètre",
+        "extraction": {
+          "shape": "circular",
+          "diameter_mm": 1200,
+          "material": {
+            "type": "chêne",
+            "category": "bois_massif"
+          },
+          "style_implicit": "traditional"
+        },
+        "inferred": {
+          "thickness_mm": 40,
+          "height_mm": 750,
+          "leg_count": 1,
+          "leg_type": "pedestal",
+          "finish": "verni"
+        },
+        "cad_params": {
+          "top": {
+            "shape": "circular",
+            "diameter": 1200,
+            "thickness": 40,
+            "edge": "rounded_small"
+          },
+          "base": {
+            "type": "pedestal",
+            "diameter": 600,
+            "height": 710
+          }
+        }
+      },
+      "example_2_complex": {
+        "input": "Grande table de réunion moderne en verre trempé avec pieds en aluminium brossé, style minimaliste, 3m de long",
+        "extraction": {
+          "function": "conference",
+          "length_mm": 3000,
+          "material_top": {
+            "type": "verre",
+            "treatment": "trempé"
+          },
+          "material_legs": {
+            "type": "aluminium",
+            "finish": "brossé"
+          },
+          "style": "minimalist",
+          "size_qualifier": "grande"
+        },
+        "inferred": {
+          "width_mm": 1200,
+          "thickness_mm": 15,
+          "leg_count": 2,
+          "leg_type": "sled_base",
+          "height_mm": 750,
+          "edge": "poli"
+        },
+        "special_considerations": [
+          "glass_requires_tempering_certification",
+          "large_span_requires_thickness_check",
+          "minimalist_style_enforces_hidden_fasteners"
+        ]
+      },
+      "example_3_conversational": {
+        "input": "Non, plutôt plus petite et avec des pieds ronds",
+        "context": "previous_table_1400x800",
+        "modification": {
+          "scale": 0.8,
+          "leg_cross_section": "circular",
+          "preserve": [
+            "material",
+            "height",
+            "function"
+          ]
+        },
+        "result": {
+          "new_dimensions": "1120x640",
+          "leg_shape": "circular",
+          "relative_change": "20% reduction"
+        }
+      }
+    }
+  },
+  "quality_validation": {
+    "geometric_validation": {
+      "checks": [
+        "watertight_solid",
+        "no_self_intersections",
+        "positive_volume",
+        "valid_b_rep",
+        "manifold_edges",
+        "minimum_feature_size_respected"
+      ],
+      "repair_strategies": {
+        "self_intersection": "boolean_union_or_split",
+        "non_manifold": "remove_duplicate_faces_or_add_thickness",
+        "small_features": "suppress_or_warn"
+      }
+    },
+    "manufacturability_scoring": {
+      "criteria": {
+        "machining_access": {
+          "weight": 0.25,
+          "check": "tool_accessibility"
+        },
+        "material_efficiency": {
+          "weight": 0.2,
+          "check": "nesting_optimization"
+        },
+        "assembly_complexity": {
+          "weight": 0.2,
+          "check": "part_count_and_joinery"
+        },
+        "tolerance_achievability": {
+          "weight": 0.2,
+          "check": "standard_tolerance_compatibility"
+        },
+        "surface_finish_compatibility": {
+          "weight": 0.15,
+          "check": "material_finish_combination"
+        }
+      },
+      "scoring": {
+        "excellent": "0.9-1.0",
+        "good": "0.7-0.9",
+        "acceptable": "0.5-0.7",
+        "problematic": "0.3-0.5",
+        "impossible": "0.0-0.3"
+      }
+    },
+    "semantic_consistency_check": {
+      "description_geometry_match": "verify_extracted_params_match_generated_geometry",
+      "material_appropriateness": "check_material_suitable_for_geometry",
+      "style_coherence": "verify_all_elements_follow_style_rules"
+    }
+  },
+  "nlp_advanced_features": {
+    "multilingual_semantic_equivalence": {
+      "fr": {
+        "dimension_terms": {
+          "hauteur": "height",
+          "largeur": "width",
+          "profondeur": "depth",
+          "longueur": "length",
+          "épaisseur": "thickness",
+          "diamètre": "diameter"
+        },
+        "material_terms": {
+          "chêne": "oak",
+          "acier": "steel",
+          "verre": "glass",
+          "aluminium": "aluminum"
+        },
+        "quality_terms": {
+          "grand": "large",
+          "petit": "small",
+          "épais": "thick",
+          "fin": "thin",
+          "léger": "light",
+          "lourd": "heavy"
+        }
+      },
+      "en": {
+        "dimension_terms": {
+          "height": "hauteur",
+          "width": "largeur",
+          "depth": "profondeur",
+          "length": "longueur",
+          "thickness": "épaisseur",
+          "diameter": "diamètre"
+        },
+        "material_terms": {
+          "oak": "chêne",
+          "steel": "acier",
+          "glass": "verre",
+          "aluminum": "aluminium"
+        }
+      }
+    },
+    "style_transfer_semantics": {
+      "description_to_parameters": {
+        "modern": {
+          "corner_radius": "small",
+          "ornamentation": "none",
+          "materials": [
+            "glass",
+            "metal",
+            "lacquered_wood"
+          ],
+          "proportions": "clean_ratios"
+        },
+        "scandinavian": {
+          "corner_radius": "medium",
+          "colors": [
+            "white",
+            "light_wood",
+            "pastel"
+          ],
+          "materials": [
+            "light_oak",
+            "birch",
+            "wool"
+          ],
+          "form": "organic_functional"
+        },
+        "industrial": {
+          "finish": "raw",
+          "exposed_structure": true,
+          "materials": [
+            "steel",
+            "concrete",
+            "reclaimed_wood"
+          ],
+          "hardware": "visible"
+        },
+        "baroque": {
+          "ornamentation": "heavy",
+          "curves": "complex",
+          "materials": [
+            "gilded",
+            "mahogany",
+            "marble"
+          ],
+          "symmetry": "bilateral"
+        }
+      }
+    },
+    "creative_interpretation": {
+      "vague_input_handling": {
+        "strategy": "generate_3_variations",
+        "variations": [
+          "conservative",
+          "balanced",
+          "creative"
+        ],
+        "presentation": "side_by_side_comparison"
+      },
+      "metaphorical_descriptions": {
+        "aérienne": {
+          "interpretation": "light_appearance",
+          "implementation": [
+            "thin_profiles",
+            "transparent_materials",
+            "cantilevered"
+          ]
+        },
+        "monolithique": {
+          "interpretation": "massive_solid",
+          "implementation": [
+            "thick_sections",
+            "single_material",
+            "minimal_joints"
+          ]
+        }
+      }
+    }
+  },
+  "system_integration": {
+    "api_endpoints": {
+      "parse_intent": "/api/v1/parse",
+      "generate_cad": "/api/v1/generate",
+      "modify_model": "/api/v1/modify",
+      "analyze_model": "/api/v1/analyze",
+      "export_model": "/api/v1/export"
+    },
+    "workflow_pipeline": {
+      "step_1_nlp": {
+        "module": "semantic_parser",
+        "output": "structured_intent",
+        "latency_ms": 200
+      },
+      "step_2_inference": {
+        "module": "parametric_reasoner",
+        "output": "complete_parameter_set",
+        "latency_ms": 300
+      },
+      "step_3_generation": {
+        "module": "cad_kernel",
+        "output": "b_rep_model",
+        "latency_ms": 2000
+      },
+      "step_4_validation": {
+        "module": "geometry_checker",
+        "output": "validated_model",
+        "latency_ms": 500
+      },
+      "step_5_export": {
+        "module": "format_converter",
+        "output": "user_requested_format",
+        "latency_ms": 300
+      }
+    },
+    "fallback_strategies": {
+      "low_confidence_parsing": "ask_clarifying_questions",
+      "constraint_conflict": "present_options_to_user",
+      "generation_failure": "simplify_model_or_change_approach",
+      "manufacturability_issues": "highlight_problems_and_suggest_fixes"
+    }
+  }
+}

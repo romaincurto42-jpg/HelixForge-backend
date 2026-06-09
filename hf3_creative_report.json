@@ -1,0 +1,3371 @@
+{
+  "summary": {
+    "total": 480,
+    "success": 0,
+    "fail": 24,
+    "success_rate": "0.0%",
+    "fail_rate": "5.0%"
+  },
+  "results": [
+    {
+      "prompt": "forme créative abstraite",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 111
+    },
+    {
+      "prompt": "forme créative fluide",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 3871
+    },
+    {
+      "prompt": "forme créative torsadée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 24
+    },
+    {
+      "prompt": "forme créative ondulée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative fractale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 37
+    },
+    {
+      "prompt": "forme créative impossible",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 20
+    },
+    {
+      "prompt": "forme créative expressive",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative lumineuse",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative flottante",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en expansion",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative qui s’étire vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative qui s’étire vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative qui s’étire vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative qui s’étire vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative qui se déploie en spirale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 9
+    },
+    {
+      "prompt": "forme créative qui se déploie en éventail",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative qui se déploie en anneau",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 32
+    },
+    {
+      "prompt": "forme créative qui se déploie en colonne",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 56
+    },
+    {
+      "prompt": "forme créative qui se déploie en nappe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative qui se déploie en réseau",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en spirale ascendante",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en spirale descendante",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en spirale inversée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en spirale fractale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en spirale torsadée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en spirale ondulée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en spirale complexe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en spirale libre",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en spirale organique",
+      "status": "ERROR",
+      "error": "HTTP 500",
+      "anomaly": null,
+      "time_ms": 18
+    },
+    {
+      "prompt": "forme créative en spirale artistique",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative flottante dans l’espace",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative flottante en rotation",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative flottante en translation",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative flottante en vibration",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative flottante en expansion",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative flottante en contraction",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative flottante en oscillation",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative flottante en torsion",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative flottante en spirale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative flottante en fusion",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative lumineuse vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative lumineuse vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative lumineuse vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative lumineuse vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative lumineuse pulsante",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative lumineuse vibrante",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative lumineuse ondulée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative lumineuse fractale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative lumineuse diffuse",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative lumineuse concentrée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative impossible flottante",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative impossible torsadée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 14
+    },
+    {
+      "prompt": "forme créative impossible fractale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 22
+    },
+    {
+      "prompt": "forme créative impossible ondulée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative impossible en expansion",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative impossible en contraction",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative impossible en spirale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative impossible en réseau",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 4
+    },
+    {
+      "prompt": "forme créative impossible en anneau",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 43
+    },
+    {
+      "prompt": "forme créative impossible en colonne",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 31
+    },
+    {
+      "prompt": "structure artistique abstraite",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "structure artistique fractale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "structure artistique torsadée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "structure artistique ondulée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "structure artistique impossible",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "structure artistique expressive",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "structure artistique fluide",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 131
+    },
+    {
+      "prompt": "structure artistique organique",
+      "status": "ERROR",
+      "error": "HTTP 500",
+      "anomaly": null,
+      "time_ms": 6
+    },
+    {
+      "prompt": "structure artistique lumineuse",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 9
+    },
+    {
+      "prompt": "structure artistique flottante",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "structure artistique qui s’élève",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "structure artistique qui s’enroule",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "structure artistique qui se tord",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "structure artistique qui se plie",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "structure artistique qui se déploie",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "structure artistique qui se divise",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "structure artistique qui se fusionne",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "structure artistique qui se répand",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "structure artistique qui se contracte",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "structure artistique qui se dilate",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "structure artistique en spirale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "structure artistique en anneau",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "structure artistique en colonne",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "structure artistique en nappe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "structure artistique en réseau",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "structure artistique en faisceau",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "structure artistique en gerbe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "structure artistique en corolle",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "structure artistique en bulbe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "structure artistique en arc",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative biomécanique",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative biomécanique torsadée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative biomécanique fractale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative biomécanique ondulée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative biomécanique en expansion",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative biomécanique en contraction",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative biomécanique en spirale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative biomécanique en réseau",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative biomécanique flottante",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative biomécanique lumineuse",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative organique abstraite",
+      "status": "ERROR",
+      "error": "HTTP 500",
+      "anomaly": null,
+      "time_ms": 4
+    },
+    {
+      "prompt": "forme créative organique fractale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 21
+    },
+    {
+      "prompt": "forme créative organique torsadée",
+      "status": "ERROR",
+      "error": "HTTP 500",
+      "anomaly": null,
+      "time_ms": 9
+    },
+    {
+      "prompt": "forme créative organique ondulée",
+      "status": "ERROR",
+      "error": "HTTP 500",
+      "anomaly": null,
+      "time_ms": 4
+    },
+    {
+      "prompt": "forme créative organique en expansion",
+      "status": "ERROR",
+      "error": "HTTP 500",
+      "anomaly": null,
+      "time_ms": 3
+    },
+    {
+      "prompt": "forme créative organique en contraction",
+      "status": "ERROR",
+      "error": "HTTP 500",
+      "anomaly": null,
+      "time_ms": 3
+    },
+    {
+      "prompt": "forme créative organique en spirale",
+      "status": "ERROR",
+      "error": "HTTP 500",
+      "anomaly": null,
+      "time_ms": 4
+    },
+    {
+      "prompt": "forme créative organique en réseau",
+      "status": "ERROR",
+      "error": "HTTP 500",
+      "anomaly": null,
+      "time_ms": 3
+    },
+    {
+      "prompt": "forme créative organique flottante",
+      "status": "ERROR",
+      "error": "HTTP 500",
+      "anomaly": null,
+      "time_ms": 3
+    },
+    {
+      "prompt": "forme créative organique expressive",
+      "status": "ERROR",
+      "error": "HTTP 500",
+      "anomaly": null,
+      "time_ms": 3
+    },
+    {
+      "prompt": "forme créative fractale complexe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative fractale libre",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative fractale ondulée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative fractale torsadée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 32
+    },
+    {
+      "prompt": "forme créative fractale lumineuse",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative fractale flottante",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative fractale en expansion",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative fractale en contraction",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative fractale en spirale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative fractale en réseau",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative ondulée vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative ondulée vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative ondulée vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative ondulée vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative ondulée en expansion",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative ondulée en contraction",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative ondulée en spirale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative ondulée en réseau",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative ondulée flottante",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative ondulée fractale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative torsadée vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative torsadée vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative torsadée vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative torsadée vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative torsadée en expansion",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative torsadée en contraction",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative torsadée en spirale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative torsadée en réseau",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 9
+    },
+    {
+      "prompt": "forme créative torsadée flottante",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 13
+    },
+    {
+      "prompt": "forme créative torsadée fractale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 14
+    },
+    {
+      "prompt": "forme créative expressive vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 8
+    },
+    {
+      "prompt": "forme créative expressive vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 10
+    },
+    {
+      "prompt": "forme créative expressive vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 9
+    },
+    {
+      "prompt": "forme créative expressive vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 9
+    },
+    {
+      "prompt": "forme créative expressive en expansion",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 10
+    },
+    {
+      "prompt": "forme créative expressive en contraction",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 8
+    },
+    {
+      "prompt": "forme créative expressive en spirale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 10
+    },
+    {
+      "prompt": "forme créative expressive en réseau",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 11
+    },
+    {
+      "prompt": "forme créative expressive flottante",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative expressive fractale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative chaotique",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative chaotique torsadée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 8
+    },
+    {
+      "prompt": "forme créative chaotique ondulée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 12
+    },
+    {
+      "prompt": "forme créative chaotique fractale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 8
+    },
+    {
+      "prompt": "forme créative chaotique flottante",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative chaotique en expansion",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative chaotique en contraction",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative chaotique en spirale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative chaotique en réseau",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative chaotique expressive",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative géométrique impossible",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative géométrique fractale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 25
+    },
+    {
+      "prompt": "forme créative géométrique torsadée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 17
+    },
+    {
+      "prompt": "forme créative géométrique ondulée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 16
+    },
+    {
+      "prompt": "forme créative géométrique flottante",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative géométrique en expansion",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative géométrique en contraction",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative géométrique en spirale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative géométrique en réseau",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative géométrique expressive",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative libre",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative libre torsadée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative libre ondulée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative libre fractale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative libre flottante",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative libre en expansion",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative libre en contraction",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative libre en spirale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative libre en réseau",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative libre expressive",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en fusion",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en division",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en torsion",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en vibration",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en oscillation",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en translation",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en rotation",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en expansion rapide",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en contraction rapide",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en mutation",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en mutation fractale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en mutation ondulée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en mutation torsadée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en mutation flottante",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en mutation expressive",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en mutation en spirale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en mutation en réseau",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en mutation diffuse",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 8
+    },
+    {
+      "prompt": "forme créative en mutation complexe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en mutation libre",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en croissance",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en croissance fractale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en croissance ondulée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en croissance torsadée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en croissance flottante",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en croissance expressive",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en croissance en spirale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en croissance en réseau",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en croissance diffuse",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en croissance complexe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en expansion lumineuse",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en expansion fractale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en expansion ondulée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en expansion torsadée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 8
+    },
+    {
+      "prompt": "forme créative en expansion flottante",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 8
+    },
+    {
+      "prompt": "forme créative en expansion expressive",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en expansion en spirale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en expansion en réseau",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en expansion diffuse",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en expansion complexe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en contraction lumineuse",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en contraction fractale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en contraction ondulée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en contraction torsadée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en contraction flottante",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en contraction expressive",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en contraction en spirale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en contraction en réseau",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en contraction diffuse",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en contraction complexe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en réseau complexe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en réseau fractal",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en réseau ondulé",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 8
+    },
+    {
+      "prompt": "forme créative en réseau torsadé",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en réseau flottant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en réseau lumineux",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en réseau en expansion",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en réseau en contraction",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en réseau expressif",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en réseau impossible",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 4
+    },
+    {
+      "prompt": "forme créative en anneau fractal",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 39
+    },
+    {
+      "prompt": "forme créative en anneau ondulé",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en anneau torsadé",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 25
+    },
+    {
+      "prompt": "forme créative en anneau flottant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en anneau lumineux",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en anneau en expansion",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 9
+    },
+    {
+      "prompt": "forme créative en anneau en contraction",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en anneau expressif",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en anneau impossible",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en anneau complexe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en colonne lumineuse",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en colonne fractale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 94
+    },
+    {
+      "prompt": "forme créative en colonne ondulée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en colonne torsadée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 48
+    },
+    {
+      "prompt": "forme créative en colonne flottante",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 8
+    },
+    {
+      "prompt": "forme créative en colonne expressive",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 8
+    },
+    {
+      "prompt": "forme créative en colonne impossible",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en colonne diffuse",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 8
+    },
+    {
+      "prompt": "forme créative en colonne complexe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 8
+    },
+    {
+      "prompt": "forme créative en colonne organique",
+      "status": "ERROR",
+      "error": "HTTP 500",
+      "anomaly": null,
+      "time_ms": 9
+    },
+    {
+      "prompt": "forme créative en faisceau lumineux",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en faisceau fractal",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en faisceau ondulé",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 8
+    },
+    {
+      "prompt": "forme créative en faisceau torsadé",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en faisceau flottant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en faisceau expressif",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en faisceau impossible",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 4
+    },
+    {
+      "prompt": "forme créative en faisceau diffus",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en faisceau complexe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en faisceau organique",
+      "status": "ERROR",
+      "error": "HTTP 500",
+      "anomaly": null,
+      "time_ms": 4
+    },
+    {
+      "prompt": "forme créative en gerbe lumineuse",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en gerbe fractale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en gerbe ondulée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en gerbe torsadée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en gerbe flottante",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en gerbe expressive",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en gerbe impossible",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 4
+    },
+    {
+      "prompt": "forme créative en gerbe diffuse",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 4
+    },
+    {
+      "prompt": "forme créative en gerbe complexe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en gerbe organique",
+      "status": "ERROR",
+      "error": "HTTP 500",
+      "anomaly": null,
+      "time_ms": 4
+    },
+    {
+      "prompt": "forme créative en corolle lumineuse",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en corolle fractale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en corolle ondulée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en corolle torsadée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 4
+    },
+    {
+      "prompt": "forme créative en corolle flottante",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en corolle expressive",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en corolle impossible",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 4
+    },
+    {
+      "prompt": "forme créative en corolle diffuse",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en corolle complexe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en corolle organique",
+      "status": "ERROR",
+      "error": "HTTP 500",
+      "anomaly": null,
+      "time_ms": 3
+    },
+    {
+      "prompt": "forme créative en bulbe lumineux",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en bulbe fractal",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en bulbe ondulé",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 4
+    },
+    {
+      "prompt": "forme créative en bulbe torsadé",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en bulbe flottant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en bulbe expressif",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 4
+    },
+    {
+      "prompt": "forme créative en bulbe impossible",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en bulbe diffus",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 8
+    },
+    {
+      "prompt": "forme créative en bulbe complexe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en bulbe organique",
+      "status": "ERROR",
+      "error": "HTTP 500",
+      "anomaly": null,
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en arc lumineux",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en arc fractal",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en arc ondulé",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en arc torsadé",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en arc flottant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en arc expressif",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en arc impossible",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 4
+    },
+    {
+      "prompt": "forme créative en arc diffus",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en arc complexe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en arc organique",
+      "status": "ERROR",
+      "error": "HTTP 500",
+      "anomaly": null,
+      "time_ms": 4
+    },
+    {
+      "prompt": "forme créative en nappe lumineuse",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en nappe fractale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en nappe ondulée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en nappe torsadée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en nappe flottante",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en nappe expressive",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en nappe impossible",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 4
+    },
+    {
+      "prompt": "forme créative en nappe diffuse",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en nappe complexe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en nappe organique",
+      "status": "ERROR",
+      "error": "HTTP 500",
+      "anomaly": null,
+      "time_ms": 3
+    },
+    {
+      "prompt": "forme créative en voile lumineux",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 22
+    },
+    {
+      "prompt": "forme créative en voile fractal",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 31
+    },
+    {
+      "prompt": "forme créative en voile ondulé",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en voile torsadé",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 20
+    },
+    {
+      "prompt": "forme créative en voile flottant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en voile expressif",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en voile impossible",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 12
+    },
+    {
+      "prompt": "forme créative en voile diffus",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en voile complexe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en voile organique",
+      "status": "ERROR",
+      "error": "HTTP 500",
+      "anomaly": null,
+      "time_ms": 11
+    },
+    {
+      "prompt": "forme créative en réseau lumineux",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 8
+    },
+    {
+      "prompt": "forme créative en réseau torsadé",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en réseau ondulé",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en réseau fractal",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 8
+    },
+    {
+      "prompt": "forme créative en réseau flottant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en réseau expressif",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en réseau impossible",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en réseau diffus",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en réseau complexe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en réseau organique",
+      "status": "ERROR",
+      "error": "HTTP 500",
+      "anomaly": null,
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en anneau lumineux",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en anneau torsadé",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en anneau ondulé",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en anneau fractal",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en anneau flottant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en anneau expressif",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en anneau impossible",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en anneau diffus",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en anneau complexe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en anneau organique",
+      "status": "ERROR",
+      "error": "HTTP 500",
+      "anomaly": null,
+      "time_ms": 26
+    },
+    {
+      "prompt": "forme créative en spirale lumineuse",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en spirale torsadée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 8
+    },
+    {
+      "prompt": "forme créative en spirale ondulée",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en spirale fractale",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en spirale flottante",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 4
+    },
+    {
+      "prompt": "forme créative en spirale expressive",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en spirale impossible",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en spirale diffuse",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en spirale complexe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en spirale organique",
+      "status": "ERROR",
+      "error": "HTTP 500",
+      "anomaly": null,
+      "time_ms": 3
+    },
+    {
+      "prompt": "forme créative en vortex lumineux",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en vortex fractal",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en vortex ondulé",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en vortex torsadé",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en vortex flottant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en vortex expressif",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en vortex impossible",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en vortex diffus",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en vortex complexe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en vortex organique",
+      "status": "ERROR",
+      "error": "HTTP 500",
+      "anomaly": null,
+      "time_ms": 4
+    },
+    {
+      "prompt": "forme créative en tourbillon lumineux",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en tourbillon fractal",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en tourbillon ondulé",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en tourbillon torsadé",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en tourbillon flottant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en tourbillon expressif",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en tourbillon impossible",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en tourbillon diffus",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en tourbillon complexe",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en tourbillon organique",
+      "status": "ERROR",
+      "error": "HTTP 500",
+      "anomaly": null,
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en colonne torsadée vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en colonne torsadée vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en colonne torsadée vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en colonne torsadée vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en colonne ondulée vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 8
+    },
+    {
+      "prompt": "forme créative en colonne ondulée vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en colonne ondulée vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 9
+    },
+    {
+      "prompt": "forme créative en colonne ondulée vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en colonne fractale vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 8
+    },
+    {
+      "prompt": "forme créative en colonne fractale vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en faisceau torsadé vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 4
+    },
+    {
+      "prompt": "forme créative en faisceau torsadé vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en faisceau torsadé vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 4
+    },
+    {
+      "prompt": "forme créative en faisceau torsadé vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en faisceau ondulé vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en faisceau ondulé vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en faisceau ondulé vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en faisceau ondulé vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en faisceau fractal vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en faisceau fractal vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en gerbe torsadée vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en gerbe torsadée vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en gerbe torsadée vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en gerbe torsadée vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en gerbe ondulée vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en gerbe ondulée vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en gerbe ondulée vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en gerbe ondulée vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en gerbe fractale vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en gerbe fractale vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en corolle torsadée vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en corolle torsadée vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en corolle torsadée vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en corolle torsadée vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en corolle ondulée vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en corolle ondulée vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en corolle ondulée vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en corolle ondulée vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en corolle fractale vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en corolle fractale vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en bulbe torsadé vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en bulbe torsadé vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en bulbe torsadé vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en bulbe torsadé vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en bulbe ondulé vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en bulbe ondulé vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en bulbe ondulé vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en bulbe ondulé vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en bulbe fractal vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en bulbe fractal vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en arc torsadé vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en arc torsadé vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en arc torsadé vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en arc torsadé vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en arc ondulé vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en arc ondulé vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en arc ondulé vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en arc ondulé vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en arc fractal vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en arc fractal vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en nappe torsadée vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en nappe torsadée vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en nappe torsadée vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en nappe torsadée vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en nappe ondulée vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 8
+    },
+    {
+      "prompt": "forme créative en nappe ondulée vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 9
+    },
+    {
+      "prompt": "forme créative en nappe ondulée vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en nappe ondulée vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en nappe fractale vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en nappe fractale vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en voile torsadé vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 7
+    },
+    {
+      "prompt": "forme créative en voile torsadé vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en voile torsadé vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en voile torsadé vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en voile ondulé vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en voile ondulé vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en voile ondulé vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en voile ondulé vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en voile fractal vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en voile fractal vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en réseau torsadé vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en réseau torsadé vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en réseau torsadé vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en réseau torsadé vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en réseau ondulé vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 4
+    },
+    {
+      "prompt": "forme créative en réseau ondulé vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en réseau ondulé vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 8
+    },
+    {
+      "prompt": "forme créative en réseau ondulé vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en réseau fractal vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en réseau fractal vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en anneau torsadé vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 4
+    },
+    {
+      "prompt": "forme créative en anneau torsadé vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en anneau torsadé vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en anneau torsadé vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en anneau ondulé vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en anneau ondulé vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 6
+    },
+    {
+      "prompt": "forme créative en anneau ondulé vers l’avant",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en anneau ondulé vers l’arrière",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en anneau fractal vers le haut",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    },
+    {
+      "prompt": "forme créative en anneau fractal vers le bas",
+      "status": "EMPTY_MESH",
+      "error": null,
+      "anomaly": "Mesh vide ou invalide + NO_GRAPH",
+      "time_ms": 5
+    }
+  ]
+}

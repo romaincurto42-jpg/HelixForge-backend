@@ -1,0 +1,57 @@
+{
+  "version": "2.1.0",
+  "status": "ready",
+  "createdAt": "2026-05-21T09:19:23.489003Z",
+  "updatedAt": "2026-05-21T09:19:23.489003Z",
+  "mesh": {
+    "vertexCount": 300,
+    "faceCount": 560,
+    "hasVertexColors": true,
+    "hasAnimation": false,
+    "hasLODs": true,
+    "formats": [
+      "high",
+      "medium",
+      "low"
+    ]
+  },
+  "organism": {
+    "type": "unknown",
+    "species": "unknown",
+    "growthStage": "mature",
+    "complexity": "medium"
+  },
+  "simulation": {
+    "engine": "default",
+    "iterations": 100,
+    "parameters": {}
+  },
+  "texture": {
+    "type": "vertex",
+    "hasNormalMap": false,
+    "hasAO": false,
+    "baseColor": [
+      0.8,
+      0.7,
+      0.6
+    ]
+  },
+  "files": {
+    "high": {
+      ".obj": "C:\\dev\\HelixForge3.0\\backend\\None_high.obj",
+      ".json": "C:\\dev\\HelixForge3.0\\backend\\None_high.meta.json"
+    },
+    "medium": {
+      ".obj": "C:\\dev\\HelixForge3.0\\backend\\None_medium.obj",
+      ".json": "C:\\dev\\HelixForge3.0\\backend\\None_medium.meta.json"
+    },
+    "low": {
+      ".obj": "C:\\dev\\HelixForge3.0\\backend\\None_low.obj",
+      ".json": "C:\\dev\\HelixForge3.0\\backend\\None_low.meta.json"
+    }
+  },
+  "diagnostics": {},
+  "performance": {
+    "generationTimeMs": 29543.402433395386
+  }
+}
