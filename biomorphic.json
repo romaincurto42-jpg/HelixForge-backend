@@ -1,0 +1,30 @@
+{
+  "smoothness": 0.7,
+  "noise": 0.8,
+  "detail": 0.85,
+  "style": "biomorphic",
+  "warpIntensity": 0.9,
+  "fractalDetail": 0.85,
+  "fractalIterations": 5,
+  "vascularDensity": 0.7,
+  "cellularPattern": true,
+  "mutationProbability": 0.5,
+  "colorPalette": "biomorphic",
+  "material": {
+    "metalness": 0.3,
+    "roughness": 0.5,
+    "transparency": 0.15,
+    "ior": 1.45,
+    "subsurface": 0.6,
+    "emissive": 0.2
+  },
+  "postProcess": {
+    "glow": true,
+    "bloom": true,
+    "glitch": false,
+    "painterly": true
+  },
+  "primitives": ["sphere", "torus", "cylinder", "cone"],
+  "booleanOperation": "smoothUnion",
+  "transformPriority": "hybrid"
+}

@@ -1,0 +1,27 @@
+{
+  "smoothness": 0.0,
+  "noise": 0.0,
+  "detail": 0.1,
+  "style": "strict",
+  "warpIntensity": 0.0,
+  "fractalDetail": 0.0,
+  "fractalIterations": 0,
+  "vascularDensity": 0.0,
+  "cellularPattern": false,
+  "mutationProbability": 0.0,
+  "colorPalette": "monochrome",
+  "material": {
+    "metalness": 0.9,
+    "roughness": 0.3,
+    "transparency": 0.0,
+    "ior": 1.5
+  },
+  "postProcess": {
+    "glow": false,
+    "bloom": false,
+    "glitch": false
+  },
+  "primitives": ["box", "sphere", "cylinder"],
+  "booleanOperation": "union",
+  "transformPriority": "geometric"
+}

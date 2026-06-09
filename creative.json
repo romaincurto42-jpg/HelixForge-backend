@@ -1,0 +1,29 @@
+{
+  "smoothness": 0.4,
+  "noise": 0.9,
+  "detail": 0.9,
+  "style": "creative",
+  "warpIntensity": 0.5,
+  "fractalDetail": 0.9,
+  "fractalIterations": 6,
+  "vascularDensity": 0.2,
+  "cellularPattern": true,
+  "mutationProbability": 0.7,
+  "colorPalette": "iridescent",
+  "material": {
+    "metalness": 0.6,
+    "roughness": 0.4,
+    "transparency": 0.3,
+    "ior": 1.7,
+    "emissive": 0.8
+  },
+  "postProcess": {
+    "glow": true,
+    "bloom": true,
+    "glitch": true,
+    "painterly": true
+  },
+  "primitives": ["torus", "sphere", "cone", "box"],
+  "booleanOperation": "smoothUnion",
+  "transformPriority": "artistic"
+}

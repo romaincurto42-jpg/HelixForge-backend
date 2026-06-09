@@ -1,0 +1,8 @@
+{
+  "port": 3000,
+  "modelsDir": "models/generated",
+  "lora": {
+    "enabled": true,
+    "path": "models/generated/lora/final_lora"
+  }
+}

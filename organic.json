@@ -1,0 +1,28 @@
+{
+  "smoothness": 0.8,
+  "noise": 0.6,
+  "detail": 0.7,
+  "style": "organic",
+  "warpIntensity": 0.85,
+  "fractalDetail": 0.7,
+  "fractalIterations": 4,
+  "vascularDensity": 0.6,
+  "cellularPattern": true,
+  "mutationProbability": 0.3,
+  "colorPalette": "biome",
+  "material": {
+    "metalness": 0.2,
+    "roughness": 0.7,
+    "transparency": 0.1,
+    "ior": 1.4,
+    "subsurface": 0.5
+  },
+  "postProcess": {
+    "glow": true,
+    "bloom": false,
+    "glitch": false
+  },
+  "primitives": ["sphere", "torus", "cylinder"],
+  "booleanOperation": "smoothUnion",
+  "transformPriority": "organic"
+}
